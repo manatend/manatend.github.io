@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://manatend.github.io/sitemap
+Sitemap: https://manatend.github.io/app/sitemap
+Sitemap: https://manatend.github.io/assets/sitemap
+Sitemap: https://manatend.github.io/css/sitemap
+Sitemap: https://manatend.github.io/includes/sitemap
+Sitemap: https://manatend.github.io/item/sitemap
+Sitemap: https://manatend.github.io/src/sitemap
